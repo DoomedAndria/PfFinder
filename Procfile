@@ -1,1 +1,1 @@
-worker: python clock.py
+web: python test.py
