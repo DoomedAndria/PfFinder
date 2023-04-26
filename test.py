@@ -127,7 +127,7 @@ def start():
         i.join()
 
 
-
+start()
 
 
 "https://avatars.cloudflare.steamstatic.com/9e298df12906c30b60377632be52a6fcc5d77031_medium.jpg"
